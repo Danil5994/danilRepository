@@ -99,7 +99,5 @@ public class Main {
         System.out.println("Кристина теперь получает " + kristinaIncome + " рублей. Годовой доход вырос на " +  kristinaIncrease + " рублей");
 
 
-
-
     }
 }
