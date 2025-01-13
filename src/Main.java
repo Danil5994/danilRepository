@@ -96,7 +96,7 @@ public class Main {
         int kristinaIncome = kristina + kristinaIncrease;
         System.out.println("Маша теперь получает " + mashaIncome + " рублей. Годовой доход вырос на " + mashaIncrease + " рублей");
         System.out.println("Денис теперь получает " + denisIncome + " рублей. Годовой доход вырос на " + denisIncrease + " рублей");
-        System.out.println("Кристина теперь получает " + kristinaIncome + " рубля. Годовой доход вырос на " +  kristinaIncrease + " рубля");
+        System.out.println("Кристина теперь получает " + kristinaIncome + " рублей. Годовой доход вырос на " +  kristinaIncrease + " рублей");
 
 
 
